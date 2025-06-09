@@ -1,0 +1,6 @@
+※spyder快捷鍵
+Tab / Shift + Tab鍵：代碼縮排/撤銷代碼縮排/
+按Ctrl+1：註釋/撤銷註釋
+按Ctrl+ 4/5：塊註釋/撤銷塊註釋
+按Ctrl + L：  跳轉到行號
+Ctrl+Alt+↓/↑  ：  復制一行
